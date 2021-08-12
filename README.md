@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+👋 Hi, I’m @sathishsaminathan.
+👀 I’m interested in ReactJs and React Native.
+🌱 I’m currently working as a Software Engineer.
+
+
 <!--
 **SathishSaminathan/SathishSaminathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
