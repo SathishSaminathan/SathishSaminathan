@@ -26,7 +26,7 @@
 ## Programming Languages
 
 <img align="left" alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img align="left" alt="HTML" src="https://img.shields.io/badge/HTML-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white"/>
+<img align="left" alt="HTML" src="https://img.shields.io/badge/HTML-%23FA7343.svg?style=for-the-badge&logo=html&logoColor=white"/>
 <img align="left" alt="Css" src="https://img.shields.io/badge/Css-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
 <img align="left" alt="Scss" src="https://img.shields.io/badge/Scss%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
 <img align="left" alt="EmberJs" src="https://img.shields.io/badge/EmberJs-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
