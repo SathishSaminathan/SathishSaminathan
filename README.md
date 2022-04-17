@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-👋 Hi, I’m @sathishsaminathan.
+I’m @sathishsaminathan.
 👀 I’m interested in ReactJs and React Native.
 🌱 I’m currently working as a Software Engineer.
   
