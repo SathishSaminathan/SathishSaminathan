@@ -21,7 +21,6 @@ I’m @sathishsaminathan.
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://in.linkedin.com/in/sathish-saminathan-0a9684124/)
 [<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/8307090/sathish-swaminathan)
-
 <br>
 <br>
 
