@@ -36,10 +36,6 @@ I’m @sathishsaminathan.
 
 
 ## My Packages
-[https://www.npmjs.com/package/jarvis-f](https://www.npmjs.com/package/jarvis-f)
-
-[<img align="left" alt="JavaScript" src="https://img.shields.io/badge/jarvis-f-%23ED8B00.svg?style=for-the-badge&logo=javascript&logoColor=white"/>]
-(https://www.npmjs.com/package/jarvis-f)
 [<img align="left" alt="JavaScript" src="https://img.shields.io/badge/jarvis-f-%23ED8B00.svg?style=for-the-badge&logo=javascript&logoColor=white"/>](https://www.npmjs.com/package/jarvis-f/)
 
 <!-- 
