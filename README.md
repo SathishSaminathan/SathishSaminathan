@@ -37,6 +37,7 @@ I’m @sathishsaminathan.
 
 ## My Packages
 [<img align="left" alt="JavaScript" src="https://img.shields.io/badge/jarvis-f-%23ED8B00.svg?style=for-the-badge&logo=javascript&logoColor=white"/>](https://www.npmjs.com/package/jarvis-f/)
+[<img align="left" alt="Reactjs" src="https://img.shields.io/badge/jarvis-f-%23ED8B00.svg?style=for-the-badge&logo=react&logoColor=%23ffffff"/>](https://www.npmjs.com/package/react-switch-pro/)
 
 <!-- 
 **SathishSaminathan/SathishSaminathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
