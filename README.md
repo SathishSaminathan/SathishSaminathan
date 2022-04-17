@@ -36,7 +36,7 @@ I’m @sathishsaminathan.
 
 
 ## My Packages
-[<img align="left" alt="JavaScript" src="https://img.shields.io/badge/jarvis-f-%23ED8B00.svg?style=for-the-badge&logo=javascript&logoColor=white"/>](https://www.npmjs.com/package/jarvis-f/)
+[<img align="left" alt="JavaScript" src="https://img.shields.io/badge/jarvis_f-%23ED8B00.svg?style=for-the-badge&logo=javascript&logoColor=white"/>](https://www.npmjs.com/package/jarvis-f/)
 [<img align="left" alt="React" src="https://img.shields.io/badge/react_switch_pro-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>](https://www.npmjs.com/package/react-switch-pro/)
 
 <!-- 
