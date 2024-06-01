@@ -11,7 +11,8 @@ I’m @sathishsaminathan, a passionate Software Engineer with a keen interest in
 ![SathishSaminathan Github Streaks](https://github-readme-streak-stats.herokuapp.com/?user=sathishsaminathan&fire=eb1b0c&ring=eb1b0c&currStreakLabel=eb1b0c)
 
 ![SathishSaminathan Github Stats](https://github-readme-stats.vercel.app/api?username=sathishsaminathan&show_icons=true&count_private=true&include_all_commits=true&title_color=eb1b0c&icon_color=eb1b0c)
-  
+
+<br clear="left"/>
 
 ## Connect with me
 
