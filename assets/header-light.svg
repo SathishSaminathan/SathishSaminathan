@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" role="img" aria-labelledby="t d">
+  <title id="t">Sathish Saminathan</title>
+  <desc id="d">Software engineer building web and mobile apps with React and React Native. A browser and a phone show the same toggle switch turning on.</desc>
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+    .track { fill: #C9D1D9; animation: on .45s ease .9s forwards; }
+    .track.p { animation-delay: 1.05s; }
+    .knob { fill: #FFFFFF; }
+    .kb { animation: kb .45s cubic-bezier(.3,.8,.3,1) .9s forwards; }
+    .kp { animation: kp .45s cubic-bezier(.3,.8,.3,1) 1.05s forwards; }
+    @keyframes on { to { fill: #149ECA; } }
+    @keyframes kb { to { transform: translateX(22px); } }
+    @keyframes kp { to { transform: translateX(18px); } }
+    @media (prefers-reduced-motion: reduce) {
+      .track, .kb, .kp { animation: none; }
+      .track { fill: #149ECA; }
+      .kb { transform: translateX(22px); }
+      .kp { transform: translateX(18px); }
+    }
+  </style>
+  <rect x="1" y="1" width="1198" height="358" rx="16" fill="#FFFFFF" stroke="#D0D7DE" stroke-width="2"/>
+  <text x="64" y="160" font-size="52" font-weight="700" letter-spacing="-1.5" fill="#1F2328">Sathish Saminathan</text>
+  <text x="66" y="208" font-size="22" fill="#57606A">Software engineer building web and mobile apps</text>
+  <text x="66" y="238" font-size="22" fill="#57606A">with React and React Native.</text>
+  <text x="66" y="290" font-size="16" font-weight="600" fill="#149ECA">Author of react-switch-pro</text>
+  <rect x="620" y="56" width="380" height="236" rx="10" fill="#FFFFFF" stroke="#1F2328" stroke-width="2"/>
+  <path d="M621 88 H999" stroke="#D0D7DE" stroke-width="2"/>
+  <circle cx="640" cy="72" r="5" fill="#D0D7DE"/><circle cx="656" cy="72" r="5" fill="#D0D7DE"/><circle cx="672" cy="72" r="5" fill="#D0D7DE"/>
+  <rect x="696" y="63" width="180" height="18" rx="9" fill="#EAEEF2"/>
+  <text x="710" y="76" font-size="11" fill="#57606A">localhost:3000/settings</text>
+  <text x="648" y="152" font-size="17" font-weight="600" fill="#1F2328">Dark mode</text>
+  <rect class="track" x="880" y="134" width="48" height="26" rx="13"/>
+  <circle class="knob kb" cx="893" cy="147" r="10"/>
+  <rect x="648" y="190" width="220" height="10" rx="5" fill="#EAEEF2"/>
+  <rect x="648" y="214" width="160" height="10" rx="5" fill="#EAEEF2"/>
+  <rect x="648" y="238" width="190" height="10" rx="5" fill="#EAEEF2"/>
+  <rect x="968" y="108" width="152" height="228" rx="24" fill="#FFFFFF" stroke="#1F2328" stroke-width="2"/>
+  <rect x="1019" y="120" width="50" height="6" rx="3" fill="#D0D7DE"/>
+  <text x="984" y="187" font-size="13" font-weight="600" fill="#1F2328">Dark mode</text>
+  <rect class="track p" x="1062" y="172" width="40" height="22" rx="11"/>
+  <circle class="knob kp" cx="1073" cy="183" r="8"/>
+  <rect x="984" y="220" width="110" height="8" rx="4" fill="#EAEEF2"/>
+  <rect x="984" y="240" width="80" height="8" rx="4" fill="#EAEEF2"/>
+  <rect x="984" y="260" width="96" height="8" rx="4" fill="#EAEEF2"/>
+</svg>
