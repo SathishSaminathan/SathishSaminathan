@@ -1,77 +1,42 @@
-# Hi, I'm Sathish Saminathan 👋
+<h1>Sathish Saminathan</h1>
 
-### Software Engineer | React.js & React Native Developer
+I build web and mobile apps with React and React Native, and publish small open-source components along the way.
 
-I’m a Software Engineer passionate about building scalable, high-performance web and mobile applications. I specialize in **React.js, React Native, and modern JavaScript ecosystems**, with a focus on reusable components, clean architecture, and exceptional user experiences.
-
-- 💻 Building web and mobile applications with React.js and React Native
-- 📱 Experienced in cross-platform mobile development
-- 🧩 Creating reusable components and developer tools
-- 📦 Publishing and maintaining npm packages
-- 🚀 Interested in scalable architecture, performance optimization, and open-source projects
-
----
-
-## 🛠️ Tech Stack
-
-**Frontend & Mobile**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
-
-**Backend & Data**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-**Tools & Workflow**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
-
----
-
-## 📦 Open Source Packages
-
-I build and publish npm packages to make development easier and improve component reusability.
-
-| Package | Description |
-|---|---|
-| [**jarvis-f**](https://www.npmjs.com/package/jarvis-f) | JavaScript utility package |
-| [**react-switch-pro**](https://www.npmjs.com/package/react-switch-pro) | React switch component |
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sathishsaminathan&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
-  <img height="165" src="https://streak-stats.demolab.com?user=sathishsaminathan&theme=transparent&hide_border=true" alt="GitHub Contribution Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathishsaminathan&layout=compact&theme=transparent&hide_border=true" alt="Most Used Languages" />
+<p>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-20232A?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://stackoverflow.com/users/YOUR-STACKOVERFLOW-ID"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-20232A?style=flat-square&logo=stackoverflow&logoColor=FE7A16" /></a>
+  <a href="mailto:YOUR-EMAIL"><img alt="Email" src="https://img.shields.io/badge/Email-20232A?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-## 🤝 Connect With Me
+### Open source
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/sathish-saminathan-0a9684124/)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-Profile-F48024?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/8307090/sathish-swaminathan)
-[![npm](https://img.shields.io/badge/npm-Packages-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/)
+| Package | What it does | Version |
+| :-- | :-- | :-- |
+| [react-switch-pro](https://www.npmjs.com/package/react-switch-pro) | A customizable toggle switch component for React | <img alt="npm" src="https://img.shields.io/npm/v/react-switch-pro?style=flat-square&color=149ECA&label=npm" /> |
+| [jarvis_f](https://www.npmjs.com/package/jarvis_f) | One-line description of what it does | <img alt="npm" src="https://img.shields.io/npm/v/jarvis_f?style=flat-square&color=149ECA&label=npm" /> |
+
+### What I work with
+
+| | |
+| :-- | :-- |
+| **Frameworks** | <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img alt="Ember.js" src="https://img.shields.io/badge/Ember.js-20232A?style=flat-square&logo=ember.js&logoColor=E04E39" /> |
+| **State** | <img alt="Redux" src="https://img.shields.io/badge/Redux-20232A?style=flat-square&logo=redux&logoColor=A57FE0" /> |
+| **Languages** | <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-20232A?style=flat-square&logo=javascript&logoColor=F7DF1E" /> <img alt="HTML5" src="https://img.shields.io/badge/HTML5-20232A?style=flat-square&logo=html5&logoColor=E34F26" /> |
+| **Styling** | <img alt="CSS3" src="https://img.shields.io/badge/CSS3-20232A?style=flat-square&logo=css3&logoColor=3C9CD7" /> <img alt="Sass" src="https://img.shields.io/badge/Sass-20232A?style=flat-square&logo=sass&logoColor=CC6699" /> |
+
+### GitHub activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=SathishSaminathan&show_icons=true&hide_border=true&bg_color=00000000&title_color=61DAFB&icon_color=61DAFB&text_color=C9D1D9" />
+  <img height="165" alt="GitHub stats for Sathish Saminathan" src="https://github-readme-stats.vercel.app/api?username=SathishSaminathan&show_icons=true&hide_border=true&bg_color=00000000&title_color=149ECA&icon_color=149ECA&text_color=24292F" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=SathishSaminathan&hide_border=true&background=00000000&ring=61DAFB&fire=61DAFB&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=61DAFB&sideLabels=8B949E&dates=8B949E&stroke=30363D" />
+  <img height="165" alt="GitHub streak for Sathish Saminathan" src="https://streak-stats.demolab.com?user=SathishSaminathan&hide_border=true&background=00000000&ring=149ECA&fire=149ECA&currStreakNum=24292F&sideNums=24292F&currStreakLabel=149ECA&sideLabels=57606A&dates=57606A&stroke=D0D7DE" />
+</picture>
 
 ---
 
-<p align="center">
-  <i>Building useful things, one component at a time.</i>
-</p>
+Open to collaborating on React and React Native projects. The quickest way to reach me is on [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-ID).
